@@ -1,2 +1,2 @@
-# Quelltextverzeichnis
-Die Struktur der Unterverzeichnisse diese Verzeichnisses spiegelt die Paketstruktur der Abgabe wider.
+# Runas-Strive
+A text-based game. To see the description, goto Aufgabe.pdf
